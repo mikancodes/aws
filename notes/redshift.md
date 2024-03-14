@@ -21,3 +21,18 @@ KEY FEATURE OF AMAZON REDSHIFT--
 --QUERY OPTIMIZER
 --RESULT CATCHING
 --COMPILED CODE
+
+
+
+
+------------------------------------------------------------
+
+
+
+aws role : kind of permission we give to one service to another service 
+aws use : give permission for external access to the service
+
+
+
+--------------------------------------------------------------------
+
