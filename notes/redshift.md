@@ -29,8 +29,8 @@ KEY FEATURE OF AMAZON REDSHIFT--
 
 
 
-aws role : kind of permission we give to one service to another service 
-aws use : give permission for external access to the service
+* aws role : kind of permission we give to one service to another service 
+* aws use : give permission for external access to the service
 
 
 
